@@ -1,0 +1,12 @@
+[
+    [
+        {
+            "nombre": "Bootstrap",
+            "img": "./assets/img/skills/bootstrap-stack.png"
+        },
+        {
+            "nombre": "Angular",
+            "img": "./assets/img/skills/bootstrap-stack.png"
+        }
+    ]
+]
