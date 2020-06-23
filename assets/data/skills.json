@@ -1,12 +1,36 @@
 [
     [
         {
-            "nombre": "Bootstrap",
-            "img": "./assets/img/skills/bootstrap-stack.png"
+            "nombre": "Angular",
+            "img": "./assets/img/skills/Angular.png"
         },
         {
-            "nombre": "Angular",
-            "img": "./assets/img/skills/bootstrap-stack.png"
+            "nombre": "Ionic",
+            "img": "./assets/img/skills/Ionic.png"
+        },
+        {
+            "nombre": "TypeScript",
+            "img": "./assets/img/skills/TypeScript.png"
+        },
+        {
+            "nombre": "JavaScript",
+            "img": "./assets/img/skills/JavaScript.png"
+        },
+        {
+            "nombre": "PHP",
+            "img": "./assets/img/skills/PHP.png"
+        },
+        {
+            "nombre": "Laravel",
+            "img": "./assets/img/skills/Laravel.png"
+        },
+        {
+            "nombre": "bootstrap",
+            "img": "./assets/img/skills/bootstrap.png"
+        },
+        {
+            "nombre": "Android Studio",
+            "img": "./assets/img/skills/Android Studio.png"
         }
     ]
 ]
