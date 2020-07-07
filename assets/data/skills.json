@@ -31,6 +31,30 @@
         {
             "nombre": "Android Studio",
             "img": "./assets/img/skills/Android Studio.png"
+        },
+        {
+            "nombre": "Java",
+            "img": "./assets/img/skills/Java.png"
+        },
+        {
+            "nombre": "C#",
+            "img": "./assets/img/skills/C_sharp.png"
+        },
+        {
+            "nombre": "MySQL DB",
+            "img": "./assets/img/skills/MySQL DB.png"
+        },
+        {
+            "nombre": "Oracle DB",
+            "img": "./assets/img/skills/Oracle DB.png"
+        },
+        {
+            "nombre": "Salesforce",
+            "img": "./assets/img/skills/Salesforce.png"
+        },
+        {
+            "nombre": "Zoho Creator",
+            "img": "./assets/img/skills/Zoho Creator.png"
         }
     ]
 ]
